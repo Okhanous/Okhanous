@@ -1,34 +1,21 @@
- 
-<h1 align="center">👋 Hi, I’m Omar Khanous</h1>
+<h1 align="center">Hi 👋, I'm Yoan Gabison</h1>
 
-<style>
-.btn {
-  background-color: #4CAF50;
-  color: white;
-  padding: 12px 20px;
-  border-radius: 4px;
-  text-decoration: none;
-}
-</style>
+## 😄 About me
+- 🌱 I'm currently studying Artificial Intelligence at Insa Rouen     
+- 🤔 Feel free to contact me, I'll be glad to talk with you !
 
-## 😃 About me 
-- 🌱 I’m currently learning Machine Learning in my 5th year at INSA Rouen 
-- 👀 I’m interested in Deep Learning and Machine Learning
-- 💞️ I’m looking to collaborate on Machine Learning projects
+<h2>📌My GitHub repositories</h2>
+<div>
+  <p>
+   
+  </p>
+</div>
 
-## 📌
+<h2>📈 My GitHub Stats</h2>
 
-## My github repositories
+![Github stats](https://github-readme-stats.vercel.app/api?username=okhanous&show_icons=true&include_all_commits=true)
 
+<h2>📫 How to reach me</h2>
 
-## 📬 How to reach me
-
-<a href="mailto:your_email@gmail.com" class="btn">Email Me</a>
-<a href="https://www.linkedin.com/in/your_profile" class="btn">Connect on LinkedIn</a>
-
-
-
-<!---
-Okhanous/Okhanous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="mailto:okhanous2000@gmail.com]">![okhanous2000@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/omar-khanous-0846731a2/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
