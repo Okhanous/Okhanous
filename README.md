@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yoan Gabison</h1>
+<h1 align="center">Hi 👋, I'm Omar Khanous</h1>
 
 ## 😄 About me
 - 🌱 I'm currently studying Artificial Intelligence at Insa Rouen     
