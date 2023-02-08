@@ -9,7 +9,7 @@
 <div>
   <p>
     <a href="https://github.com/Okhanous/Team-satisfaction-discord-evaluator">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Okhanous&repo=Team-satisfaction-discord-evaluator" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=okhanous&repo=Team-satisfaction-discord-evaluator" alt="GitHub Stats" />
     </a>
   </p>
 </div>
