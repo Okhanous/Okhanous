@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Omar Khanous</h1>
 
 ## 😄 About me
-- 🌱 I'm currently studying Artificial Intelligence at Insa Rouen     
+- 🌱 Hi i'm Omar Khanous,  an Artificial Intelligence 5th year student at Insa Rouen.
+- ✨ I'm currently doing a Datascience Apprenticeship at SKF Group.
 - 🤔 Feel free to contact me, I'll be glad to talk with you !
 
 <h2>📌My GitHub repositories</h2>
 <div>
   <p>
-   
+    <a href="https://github.com/Okhanous/Team-satisfaction-discord-evaluator">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Okhanous&repo=Team-satisfaction-discord-evaluator" alt="GitHub Stats" />
+    </a>
   </p>
 </div>
 
